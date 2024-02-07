@@ -1,3 +1,4 @@
+![logo](https://github.com/SiD4539/Siddu1807/blob/main/S%20banner.png)
 <h1 align="center">Hi 👋, I'm Siddhi Sai Netha</h1>
 <h3 align="center">A Passionate AI Developer from India</h3>
 
